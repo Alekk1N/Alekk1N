@@ -3,7 +3,7 @@
 - 👾 Estudando front-end && back-end
 - 📫 Contate-me no email: alex.asminavicius@outlook.com
 - 💻 Ciência da computação - FEI
-- 🕜 Tenho 18 anos
+- 🕜 Atualmente com 18 anos
  
 <br>
 <div align="center">
