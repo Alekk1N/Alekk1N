@@ -30,6 +30,12 @@
    
    ![Snake animation](https://github.com/lucasbmiotto/lucasbmiotto/blob/output/github-contribution-grid-snake.svg)
     
- </div>
+ <br>
+  </div>
+ <div align="center">
    
-   ![KITH_web](https://user-images.githubusercontent.com/86212854/167345302-e1cbe28c-fcb1-4e86-b4ba-e4528c282e4f.gif)
+   
+   ![aa](https://user-images.githubusercontent.com/86212854/167345832-a5524a96-8295-4e01-a1e9-83901b649466.gif)
+ 
+  
+  </div>
