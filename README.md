@@ -1,10 +1,12 @@
-<h1> Olá! Eu Sou o Alex Asminavicius 👋 </h1>
+![KITH_web](https://user-images.githubusercontent.com/86212854/167345302-e1cbe28c-fcb1-4e86-b4ba-e4528c282e4f.gif)
+<h2>>> Olá! Eu Sou o Alex Asminavicius 👋 </h2>
 
 - 👾 Estudante front-end && back-end
 - 📫 Contate-me no email: alex.asminavicius@outlook.com
 - 💻 Ciência da computação - FEI
 - 🕜 Atualmente com 18 anos
- 
+
+
 <br>
 <div align="center">
   <a href="https://github.com/Alekk1N">
