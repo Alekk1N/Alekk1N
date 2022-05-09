@@ -30,12 +30,14 @@
    
    ![Snake animation](https://github.com/lucasbmiotto/lucasbmiotto/blob/output/github-contribution-grid-snake.svg)
     
- <br>
+ <br><br>
   </div>
  <div align="center">
    
+    
+   ![dd](https://user-images.githubusercontent.com/86212854/167346271-bac867c1-776d-4899-895d-acf5db0e4f86.gif)   
    
-   ![aa](https://user-images.githubusercontent.com/86212854/167345832-a5524a96-8295-4e01-a1e9-83901b649466.gif)
  
   
   </div>
+
