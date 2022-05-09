@@ -1,4 +1,4 @@
-<h1> Olá! Me Chamo Alex Asminavicius 👋 </h1>
+<h1> Olá! Sou o Alex Asminavicius 👋 </h1>
 
 - 👾 Estudando front-end && back-end
 - 📫 Contate-me no email: alex.asminavicius@outlook.com
