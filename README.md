@@ -1,8 +1,9 @@
-<h1> Olá! 👋 </h1>
+<h1> Olá! Eu Sou o Alex Asminavicius👋 </h1>
 
 - 👾 Estudando front-end && back-end
 - 📫 Contate-me no email: alex.asminavicius@outlook.com
 - 💻 Ciência da computação - FEI
+- 🕜 18 anos
  
 <br>
 <div align="center">
