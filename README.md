@@ -30,7 +30,7 @@
    
    ![Snake animation](https://github.com/lucasbmiotto/lucasbmiotto/blob/output/github-contribution-grid-snake.svg)
     
- <br><br>
+ <br>
   </div>
  <div align="center">
    
