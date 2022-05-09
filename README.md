@@ -1,5 +1,4 @@
-![KITH_web](https://user-images.githubusercontent.com/86212854/167345302-e1cbe28c-fcb1-4e86-b4ba-e4528c282e4f.gif)
-<h2>>> Olá! Eu Sou o Alex Asminavicius 👋 </h2>
+<h1>>> Olá! Eu Sou o Alex Asminavicius 👋 </h1>
 
 - 👾 Estudante front-end && back-end
 - 📫 Contate-me no email: alex.asminavicius@outlook.com
@@ -32,3 +31,5 @@
    ![Snake animation](https://github.com/lucasbmiotto/lucasbmiotto/blob/output/github-contribution-grid-snake.svg)
     
  </div>
+   
+   ![KITH_web](https://user-images.githubusercontent.com/86212854/167345302-e1cbe28c-fcb1-4e86-b4ba-e4528c282e4f.gif)
