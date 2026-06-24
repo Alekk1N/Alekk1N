@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" fill="none" role="img" aria-label="Alex Asminavicius — building AI products, made in Brazil">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#120920"/>
+      <stop offset="0.5" stop-color="#241043"/>
+      <stop offset="1" stop-color="#37195a"/>
+    </linearGradient>
+    <linearGradient id="ai" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c4b5fd"/>
+      <stop offset="0.5" stop-color="#e879f9"/>
+      <stop offset="1" stop-color="#c4b5fd"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.6 0; 0.6 0; -0.6 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="0.07" stop-color="#fff"/>
+      <stop offset="0.93" stop-color="#fff"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <mask id="fademask"><rect x="60" y="276" width="1080" height="40" fill="url(#fade)"/></mask>
+    <clipPath id="round"><rect x="0" y="0" width="1200" height="340" rx="22"/></clipPath>
+
+    <g id="pills" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#cdbff0">
+      <g><rect width="64"  height="26" rx="13" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/><text x="32"  y="17" text-anchor="middle">react</text></g>
+      <g transform="translate(78,0)"><rect width="104" height="26" rx="13" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/><text x="52" y="17" text-anchor="middle">typescript</text></g>
+      <g transform="translate(196,0)"><rect width="88" height="26" rx="13" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/><text x="44" y="17" text-anchor="middle">supabase</text></g>
+      <g transform="translate(298,0)"><rect width="52" height="26" rx="13" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/><text x="26" y="17" text-anchor="middle">n8n</text></g>
+      <g transform="translate(364,0)"><rect width="52" height="26" rx="13" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/><text x="26" y="17" text-anchor="middle">gcp</text></g>
+      <g transform="translate(430,0)"><rect width="74" height="26" rx="13" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/><text x="37" y="17" text-anchor="middle">openai</text></g>
+    </g>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect x="0" y="0" width="1200" height="340" fill="url(#bg)"/>
+
+    <!-- aurora blobs -->
+    <circle cx="1090" cy="10" r="150" fill="#a855f7" fill-opacity="0.42" filter="url(#blur)"/>
+    <circle cx="600" cy="352" r="130" fill="#ec4899" filter="url(#blur)">
+      <animate attributeName="fill-opacity" values="0.30;0.60;0.30" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="150" cy="300" r="120" fill="#6366f1" fill-opacity="0.30" filter="url(#blur)"/>
+
+    <!-- wordmark + subline -->
+    <text x="70" y="150" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="1">
+      <tspan fill="#ffffff">ALEX</tspan><tspan fill="url(#ai)"> ASMINAVICIUS</tspan>
+    </text>
+    <text x="72" y="196" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="17" fill="#b9a8e0">building AI products</text>
+    <rect x="282" y="182" width="9" height="18" fill="#e879f9">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.06s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- glass panel -->
+    <rect x="884" y="92" width="250" height="156" rx="18" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.16"/>
+    <rect x="884" y="92" width="250" height="2" rx="1" fill="#ffffff" fill-opacity="0.22"/>
+    <text x="908" y="132" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff">made in Brazil 🇧🇷</text>
+    <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#cdc3ea">
+      <text x="908" y="166">ship fast</text>
+      <text x="908" y="192">iterate</text>
+      <text x="908" y="218">scale</text>
+    </g>
+
+    <!-- marquee -->
+    <g mask="url(#fademask)">
+      <g transform="translate(60,283)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" from="0 0" to="-532 0" dur="16s" repeatCount="indefinite"/>
+          <use href="#pills" x="0"/>
+          <use href="#pills" x="532"/>
+          <use href="#pills" x="1064"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

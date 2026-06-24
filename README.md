@@ -1,6 +1,13 @@
-<h1 align="center"> SYNC - AUTOMATE YOUR BUSINESS 💜 </h1>
-  
-  <div align="center">
-    <a href="mailto:alex.asminavicius@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/alekkk._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/alex-asminavicius-511773230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Alekk1N/Alekk1N/main/banner.svg" alt="Alex Asminavicius — building AI products, made in Brazil" width="100%">
+
+<br><br>
+
+<a href="mailto:alex.asminavicius@outlook.com"><img src="https://img.shields.io/badge/Outlook-7c3aed?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
+&nbsp;
+<a href="https://instagram.com/alekkk._"><img src="https://img.shields.io/badge/Instagram-9333ea?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/alex-asminavicius-511773230/"><img src="https://img.shields.io/badge/LinkedIn-a855f7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+</div>
