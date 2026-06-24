@@ -4,10 +4,12 @@
 
 <br><br>
 
-<a href="mailto:alex.asminavicius@outlook.com"><img src="https://img.shields.io/badge/Outlook-7c3aed?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
+<a href="https://syncai.com.br"><img src="https://img.shields.io/badge/Site-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"></a>
 &nbsp;
-<a href="https://instagram.com/alekkk._"><img src="https://img.shields.io/badge/Instagram-9333ea?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:alex.asminavicius@outlook.com"><img src="https://img.shields.io/badge/Outlook-9333ea?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/alex-asminavicius-511773230/"><img src="https://img.shields.io/badge/LinkedIn-a855f7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://instagram.com/alekkk._"><img src="https://img.shields.io/badge/Instagram-a855f7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/alex-asminavicius-511773230/"><img src="https://img.shields.io/badge/LinkedIn-d946ef?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
