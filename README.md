@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/sync-2027-banner.svg" alt="Alex Asminavicius, CEO da SYNC" width="100%">
+<img src="assets/sync-2027-banner-v2.svg" alt="Alex Asminavicius, CEO da SYNC" width="100%">
 
 <br><br>
 
